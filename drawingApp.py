@@ -96,7 +96,7 @@ def main():
                             tempdir = tkinter.filedialog.asksaveasfilename(defaultextension=".png")
 
 
-
+                            # check if user entered a file
                             if (0 < len(tempdir)):
                                 # change dir to the directory that user wants to save
                                 os.chdir(os.path.dirname(tempdir))
