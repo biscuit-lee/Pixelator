@@ -8,7 +8,7 @@ Pixelator is a painting application, similar to MS Paint, except you can only pa
 There are a bunch of colors, you can save your work and you can use the "bucket" function like in paint.
 
 
-####Features:
+#### Features:
 - Normal drawing: You can draw by clikcing on the colors buttons.
 
 - Eraser: it's basically just ilke the normal drawing pencil except it's colored white.
